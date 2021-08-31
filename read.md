@@ -24,3 +24,24 @@ pip install django-rest-framework
 
 
 ##### decorators, corheaders,namespace,status
+
+
+##### Task ######
+
+create an app called Products
+
+create a class of Product
+   - name
+   - id
+   - price
+   - quantity
+
+Do not use xamp
+
+Serialize the model product
+
+Views
+
+urls
+
+send screenshot of post man ui with data
