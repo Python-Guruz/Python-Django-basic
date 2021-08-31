@@ -21,3 +21,6 @@ python manage.py createsuperuser
 We are going now to create our serializers so that we can make our data json serializable
 
 pip install django-rest-framework
+
+
+##### decorators, corheaders,namespace,status
