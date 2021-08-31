@@ -6,7 +6,7 @@ python manage.py runserver
 
 CRUD
 create 
-read
+read - 1 -> Getting data from the database. It is json serializable.
 update
 delete
 
